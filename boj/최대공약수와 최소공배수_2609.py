@@ -6,7 +6,6 @@ if num1 > num2:
 else:
     max = num2
     min = num1
-
 for i in range(min, -1, -1):
     if min % i ==0 and max % i == 0:
         big = i
