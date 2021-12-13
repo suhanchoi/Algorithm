@@ -1,3 +1,4 @@
+# 400 못찾음
 t = int(input())
 
 def b(r, k):
@@ -15,6 +16,7 @@ def b(r, k):
             start = middle
             cnt += 1
         middle = (start + end) // 2 # 재할당
+        print(start, middle, end)
     return cnt + 1
 
 for i in range(t):
@@ -28,3 +30,17 @@ for i in range(t):
         print(f'#{i+1} B')
     else:
         print(f'#{i+1} 0')
+
+'''
+input
+3
+400 300 350
+1000 299 578
+1000 222 888
+
+output
+#1 A
+#2 0
+#3 A
+
+'''

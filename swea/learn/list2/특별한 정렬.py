@@ -1,35 +1,37 @@
 # solved
 t = int(input())
 
+
 def myMax(l):
-    max = 0
+    maxidx = 0
     n = len(l)
     for i in range(1, n):
-        if l[max] < l[i]:
-            max = i
-    return max
+        if l[maxidx] < l[i]:
+            maxidx = i
+    return maxidx
+
 
 def myMin(l):
-    min = 0
+    minidx = 0
     n = len(l)
     for i in range(1, n):
-        if l[min] > l[i]:
-            min = i
-    return min
+        if l[minidx] > l[i]:
+            minidx = i
+    return minidx
 
 for kk in range(t):
     n = int(input())
-    ary = list(map(int,input().split()))
+    ary = list(map(int, input().split()))
 
-    for i in range(0, n): # 0 1 2 3 4 ... 9
+    for i in range(0, n):  # 0 1 2 3 4 ... 9
         if i % 2 == 0:
-            max = i + myMax(ary[i:])
-            ary[max], ary[i] = ary[i], ary[max]
+            maxidx = i + myMax(ary[i:])
+            ary[maxidx], ary[i] = ary[i], ary[maxidx]
         else:
-            min = i + myMin(ary[i:])
-            ary[min], ary[i] = ary[i], ary[min]
+            minidx = i + myMin(ary[i:])
+            ary[minidx], ary[i] = ary[i], ary[minidx]
 
-    print(f'#{kk+1}', end=' ')
+    print(f'#{kk + 1}', end=' ')
 
     for k in range(10):
         print(ary[k], end=' ')
