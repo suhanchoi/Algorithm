@@ -9,11 +9,11 @@ def b(r, k):
     while middle != k:
         if middle == k:
             cnt += 1
-        elif middle > k:
-            end = middle
+        elif middle >= k:
+            end = middle-1
             cnt += 1
         else:
-            start = middle
+            start = middle+1
             cnt += 1
         middle = (start + end) // 2 # 재할당
         print(start, middle, end)

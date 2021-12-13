@@ -1,37 +1,52 @@
 import sys
 
 def chk(nary, target):
-    nary.sort()
     start = 0
-    end = len(nary)-1
-    middle = (start + end) // 2
+    end = len(nary) - 1
 
-    while nary[middle] != target:
-        if target == nary[end]:
-            print(1)
-            return
+    while True:
+        middle = (start + end) // 2
+
+        if start > end:  # ??? re
+            return False
+
         if nary[middle] > target:
-            end = middle
+            end = middle - 1
+
+        elif nary[middle] < target:
+            start = middle + 1
+
         else:
-            start = middle
-        middle = (start + end) //2
-        if target < start or target > end:
-            print(0)
-            return
-    print(1)
+            return True
 
+# def binsearch(arr, target, start, end):
+#     if start > end:
+#         print(0)
+#         return
+#     middle = (start + end) // 2
+#     if arr[middle] > target:
+#         return binsearch(arr, target, start, middle - 1)
+#     elif arr[middle] < target:
+#         return binsearch(arr, target, middle + 1, end)
+#     else:
+#         print(1)
+#         return
 
-# n = int(input())
-# nary = list(map(int, input().split()))
-#
-# m = int(input())
-# mary = list(map(int, input().split()))
-
-n = int(sys.stdin.readline()) # 입력 속도가 더 빠름
+n = int(sys.stdin.readline())  # input() -> sys.stdin.readline() 입력 속도가 더 빠름
 nary = list(map(int, sys.stdin.readline().split()))
 
 m = int(sys.stdin.readline())
 mary = list(map(int, sys.stdin.readline().split()))
 
+nary.sort()
+
+# for i in range(m):
+#     chk(nary, mary[i])
+#     binsearch(nary, mary[i], 0, len(nary) - 1)
+
 for i in range(m):
-    chk(nary, mary[i])
+    if chk(nary, mary[i]):
+        print(1)
+    else:
+        print(0)
+
