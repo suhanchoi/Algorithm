@@ -1,7 +1,6 @@
 import sys
 
 num = int(sys.stdin.readline())
-# num = int(input())
 
 ary = []
 
@@ -25,7 +24,6 @@ max_times = max(cnt)
 
 mode = cnt.index(max_times) -4000 # 최빈값의 idx
 
-# print(mode)
 ccnt = 0 # 두번째로 작은 최빈값 count
 
 for i in range(8001):
@@ -35,10 +33,10 @@ for i in range(8001):
             mode = i - 4000
             break
 if sum(ary)//num > 0:
-    avg = int((sum(ary)//num)+0.5)
+    myavg = int(((sum(ary)/num)+0.5))
 else:
-    avg = int((sum(ary)//num)-0.5)
-print(avg)
+    myavg = int(((sum(ary)/num)-0.5))
+print(myavg)
 print(ary[num//2])
 print(mode)
 print(max(ary)-min(ary))
