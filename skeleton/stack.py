@@ -1,3 +1,5 @@
+# stack 은 후입선출
+
 def push(item):
     s.append(item)
 
