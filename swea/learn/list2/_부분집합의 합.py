@@ -1,8 +1,5 @@
 # ??? 비트 연산자 활용 부분 집합 re
 
-
-
-
 def nCr(n, r, s, k): # n개에서 r개를 고르는 조합, s: 선택할 수 있는 구간의 시작 k 고른 개수
     global newresult
     if k == r:
