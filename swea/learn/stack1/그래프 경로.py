@@ -15,7 +15,7 @@ def dfs(v):
         if v == goal: # 종료 조건
             return 1
 
-        for w in gr[v]:
+        for w in gr[v]: # w 는 v의 정점 중에서 인접한 정점
             if visited[w] == False:
                 st.append(w)
                 visited[w] = True
