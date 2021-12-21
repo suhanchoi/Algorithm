@@ -35,8 +35,11 @@ def construct_candidate(a, k, input, c):
             ncandidates += 1
         return ncandidates
 
-
 MaxCandidates = 100
 NMax = 100
 a = [0] * NMax
 backtrack(a, 0, 3)
+
+
+
+

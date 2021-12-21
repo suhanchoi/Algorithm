@@ -3,7 +3,7 @@
 
 t = int(input())
 
-def dfs(v):
+def dfs(v): # v 는 시작점
     # st = []
     # visited = [False] * (v+1)
     visited[v] = True
@@ -11,9 +11,9 @@ def dfs(v):
 
     while st:
         v = st.pop(-1)
-        # print(v)
-        if v == goal: # 종료 조건
-            return 1
+        print(v)
+        # if v == goal: # 종료 조건
+        #     return 1
 
         for w in gr[v]: # w 는 v의 정점 중에서 인접한 정점
             if visited[w] == False:
@@ -37,6 +37,8 @@ for t in range(t):
     # visited[V] = True
     # st.append(V)
 
+    # print(gr)
+
     print(f'#{t + 1} {dfs(start)}')
 
 
@@ -47,10 +49,10 @@ for t in range(t):
 ---------------------------------------------------------------------------------
 
 '''
-
+'''
 def findw(v):
     for i in range(len(adj[v])):
-        if adj[v][i] == 1 and visited[i] == False:
+        if adj[v][i] == 1 and visited[i] == False: # 인접행렬
             return i
     return -1
 
@@ -80,7 +82,7 @@ for t in range(tc):
 
     for i in range(line):
         s_node, g_node = map(int, input().split())
-        adj[s_node][g_node] = 1
+        adj[s_node][g_node] = 1 # 방향이 있을때 단방향
         # 방향이 없을 때 adj[g_node][s_node] = 1
 
     start, goal = map(int, input().split())
@@ -93,7 +95,7 @@ for t in range(tc):
 #==================================================
 # goal에 도달하면 1을 return하고
 # 아니면 0 을 return하는 함수
-def dfs(v):
+def dfs(v): # 일반행렬 사용
     ST = []
     visited = [False] * (v+1)
 
@@ -138,3 +140,4 @@ def dfs_adj(v): # 인접행렬 사용
                 ST.append(w)
                 visited[w] = True
     return 0
+'''
