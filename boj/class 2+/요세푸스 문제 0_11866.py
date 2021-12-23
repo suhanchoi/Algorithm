@@ -7,16 +7,22 @@ def chk(ary, k):
 
     deq = deque(ary)
 
-    if len(ary) == 1:
+    while len(deq) != 1:
+        for i in range(k - 1):
+            deq.append(deq.popleft())
         result.append(deq.popleft())
-        return
-
-    for i in range(k-1):
-        deq.append(deq.popleft())
 
     result.append(deq.popleft())
 
-    chk(deq, k)
+    # 많은 재귀로 수정
+    # if len(ary) == 1:
+    #     result.append(deq.popleft())
+    #     return
+    #
+    # for i in range(k-1):
+    #     deq.append(deq.popleft())
+    #
+    # result.append(deq.popleft())
 
 N, K = map(int, sys.stdin.readline().split())
 
