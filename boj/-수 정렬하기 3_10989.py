@@ -7,7 +7,7 @@ ary = []
 for i in range(num):
     ary.append(int(sys.stdin.readline()))
 
-ary.sort()
+ary = sorted(ary)
 
 for i in range(num):
-    print(ary[i])
+    sys.stdout.write(str(ary[i]) + '\n')
