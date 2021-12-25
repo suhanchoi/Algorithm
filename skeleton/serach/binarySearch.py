@@ -17,7 +17,7 @@ def chk(nary, target):
         else:
             return True
 
-def binsearch(arr, target, start, end):
+def binsearch(arr, target, start, end): # 재귀
     if start > end:
         print(0)
         return
