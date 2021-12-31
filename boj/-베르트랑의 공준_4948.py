@@ -1,13 +1,13 @@
 from sys import stdin
 
-n = 123456 * 2
+n = 123456 * 2 +1
 
 prime = [True] * n
 
 prime[0], prime[1] = False, False
 
 # 소수 구하기
-for i in range(2, int(n**(1/2))):
+for i in range(2, int(n**(1/2))+1):
     j = i * i
     while j < n:
         prime[j] = False
@@ -24,4 +24,3 @@ while True:
         if prime[i]:
             cnt +=1
     print(cnt)
-
