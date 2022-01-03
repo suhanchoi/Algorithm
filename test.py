@@ -9,6 +9,7 @@ print(int(c, 16))
 # def chk(n):
 #     cnt = 0
 #     while n//10 > 0:
+
 #         cnt += 1
 #         n /= 10
 
