@@ -1,9 +1,10 @@
-import sys
-num1, num2 = map(int,(sys.stdin.readline().split()))
+# import sys
+c = input()
+print(int(c, 16))
 
 # num2 = int(sys.stdin.readline())
 
-print(num2*2 - num1)
+# print(num2*2 - num1)
 
 # def chk(n):
 #     cnt = 0
