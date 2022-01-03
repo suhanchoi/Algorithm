@@ -9,5 +9,3 @@ num2 = int(sys.stdin.readline())
 #         n /= 10
 #     return cnt
 
-print(102)
-print('suhan0319')
