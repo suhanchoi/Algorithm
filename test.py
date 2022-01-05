@@ -1,6 +1,5 @@
 # import sys
-c = input()
-print(int(c, 16))
+
 
 # num2 = int(sys.stdin.readline())
 
