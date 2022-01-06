@@ -1,5 +1,7 @@
-# import sys
-
+import sys
+mystr = sys.stdin.readline().strip()
+print(mystr,end='')
+print('??!')
 
 # num2 = int(sys.stdin.readline())
 
