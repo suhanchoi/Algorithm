@@ -3,6 +3,7 @@ mystr = sys.stdin.readline().strip()
 print(mystr,end='')
 print('??!')
 
+
 # num2 = int(sys.stdin.readline())
 
 # print(num2*2 - num1)
