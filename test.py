@@ -3,8 +3,6 @@ import sys
 num = int(sys.stdin.readline())
 print(num-1946)
 
-
-
 # num2 = int(sys.stdin.readline())
 
 # print(num2*2 - num1)
