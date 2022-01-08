@@ -1,6 +1,7 @@
 import sys
 # mystr = sys.stdin.readline()
-print('2022-01-07')
+num = int(sys.stdin.readline())
+print(num-1946)
 
 
 
