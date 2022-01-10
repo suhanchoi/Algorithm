@@ -1,7 +1,13 @@
 import sys
-# mystr = sys.stdin.readline()
+a = int(sys.stdin.readline())
+b = int(sys.stdin.readline())
 # num = int(sys.stdin.readline())
-# print(num-1946)
+print(a+b)
+print(a-b)
+print(a*b)
+
+
+
 
 print('''I'm Sexy''')
 
