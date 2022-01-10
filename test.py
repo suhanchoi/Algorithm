@@ -1,7 +1,9 @@
 import sys
 # mystr = sys.stdin.readline()
-num = int(sys.stdin.readline())
-print(num-1946)
+# num = int(sys.stdin.readline())
+# print(num-1946)
+
+print('''I'm Sexy''')
 
 # num2 = int(sys.stdin.readline())
 
