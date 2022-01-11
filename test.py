@@ -1,15 +1,10 @@
 import sys
 a = int(sys.stdin.readline())
 b = int(sys.stdin.readline())
-# num = int(sys.stdin.readline())
 print(a+b)
 print(a-b)
 print(a*b)
 
-
-
-
-print('''I'm Sexy''')
 
 # num2 = int(sys.stdin.readline())
 
