@@ -1,9 +1,7 @@
 import sys
-a = int(sys.stdin.readline())
-b = int(sys.stdin.readline())
-print(a+b)
-print(a-b)
-print(a*b)
+a,b = map(int,(sys.stdin.readline().split()))
+print(b-a, end=' ')
+print(b)
 
 
 # num2 = int(sys.stdin.readline())
