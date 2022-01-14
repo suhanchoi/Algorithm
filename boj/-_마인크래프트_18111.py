@@ -23,7 +23,7 @@ while m <= end:
     temp = 0
     Btemp = B
 
-    for i in range(N * M):
+    for i in range(N * -M):
         if lst[i] > m: # 블록제거
             temp += 2 * (lst[i] - m) # 2초
             Btemp += lst[i] - m

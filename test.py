@@ -1,6 +1,6 @@
-# import sys
-# a,b = map(int,(sys.stdin.readline().split()))
-# print(b-a, end=' ')
+import sys
+a,b = (sys.stdin.readline().split())
+print(eval(a+'*'+b))
 # print(b)
 
 # num2 = int(sys.stdin.readline())
