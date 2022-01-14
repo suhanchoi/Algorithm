@@ -3,7 +3,6 @@
 # print(b-a, end=' ')
 # print(b)
 
-
 # num2 = int(sys.stdin.readline())
 
 # print(num2*2 - num1)
