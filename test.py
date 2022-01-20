@@ -2,12 +2,19 @@
 # a,b = map(int,(sys.stdin.readline().split()))
 # a,b = sys.stdin.readline().split()
 # print(eval(a+'+'+b))
-print('''SHIP NAME      CLASS          DEPLOYMENT IN SERVICE
-N2 Bomber      Heavy Fighter  Limited    21        
-J-Type 327     Light Combat   Unlimited  1         
-NX Cruiser     Medium Fighter Limited    18        
-N1 Starfighter Medium Fighter Unlimited  25        
-Royal Cruiser  Light Combat   Limited    4         
+print('''NFC West       W   L  T
+-----------------------
+Seattle        13  3  0
+San Francisco  12  4  0
+Arizona        10  6  0
+St. Louis      7   9  0
+
+NFC North      W   L  T
+-----------------------
+Green Bay      8   7  1
+Chicago        8   8  0
+Detroit        7   9  0
+Minnesota      5  10  1      
 ''')
 
 
