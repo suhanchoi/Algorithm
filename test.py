@@ -2,11 +2,7 @@
 # a,b = map(int,(sys.stdin.readline().split()))
 # a,b = sys.stdin.readline().split()
 # print(eval(a+'+'+b))
-print('''       _.-;;-._
-'-..-'|   ||   |
-'-..-'|_.-;;-._|
-'-..-'|   ||   |
-'-..-'|_.-''-._|
+print('''
 ''')
 
 
