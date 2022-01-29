@@ -1,6 +1,7 @@
 from sys import stdin
 
-# dp
+# dp / 상향식 하향식
+# 상향식 작은값에서 목표로, 하향식 맨위 값에서 제일 작은 인덱스로
 # 경우를 3 case로 나눠서 진행
 n = int(stdin.readline())
 
