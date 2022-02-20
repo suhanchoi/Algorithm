@@ -3,6 +3,7 @@
 # stack 사용
 # 깊이 우선 탐색
 
+'''
 def dfs(s, V):
     visited = [0]*(V+1)
     stack = []
@@ -81,5 +82,3 @@ for t in range(t):
 
     print(f'#{t + 1} {dfs(start)}')
 
-
-'''
