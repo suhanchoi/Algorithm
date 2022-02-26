@@ -32,10 +32,12 @@ for i in range(8001):
         if ccnt == 2:
             mode = i - 4000
             break
-if sum(ary)//num > 0:
+
+if sum(ary)/num > 0:
     myavg = int(((sum(ary)/num)+0.5))
 else:
     myavg = int(((sum(ary)/num)-0.5))
+
 print(myavg)
 print(ary[num//2])
 print(mode)
