@@ -1,6 +1,6 @@
 from sys import stdin
 
-#
+# greedy
 
 n = int(stdin.readline())
 
