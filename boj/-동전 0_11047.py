@@ -12,12 +12,14 @@ def check(n):
     #         i -= 1
     #     n -= lst[i]
     #     result += 1
-
     lst.sort(reverse=True)
     for i in lst:
         if i <= n: # 같아야 동전 가치 딱 맞음
             result += n // i  # i 는 동전 가치 result는 해당 개수
-            n -= i * result
+            n -= i * (n // i)
+
+        if n == 0:
+            return result
 
     return result
 
