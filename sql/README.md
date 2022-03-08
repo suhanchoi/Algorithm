@@ -16,5 +16,25 @@ sql if -> decode(컬럼, 조건1,결과1,조건2,결과2)
 
 
 
-select ifnull(name, "~~~") from 
+select ifnull(name, "~~~") from
+
+
+
+left (outer) join ~ on 조건
+
+
+
+limit 은 sql 맨 마지막에 위치
+
+
+
+where ~ like 연산자 활용
+
+% 여러글자,  _ 한글자
+
+'%Intact%'  '__시'
+
+
+
+
 
