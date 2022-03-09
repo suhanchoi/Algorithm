@@ -36,5 +36,9 @@ where ~ like 연산자 활용
 
 
 
+where 칼럼 is null
+
+where 칼럼 = 'abc'
+
 
 
