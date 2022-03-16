@@ -1,6 +1,5 @@
 from sys import stdin
 
-
 # 문자열, greedy
 
 def check():
