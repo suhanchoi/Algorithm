@@ -12,5 +12,7 @@ N, r, c = map(int,stdin.readline().split())
 # (r,c)는 몇번쨰 방문하는지 출력
 # 재귀적으로 반복해서 4등분
 
+# 재귀로 풀이
+
 print(N,r,c)
 
