@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b97b021-afa2-43e2-ba39-e33e6c9cd678" name="Default Changelist" comment="0221 update">
+      <change afterPath="$PROJECT_DIR$/boj/색종이 만들기_2630.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boj/-바이러스_2606.py" beforeDir="false" afterPath="$PROJECT_DIR$/boj/class 3+/바이러스_2606.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1zofPJdF91LOhYxPQK4cyKu4BKZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/boj" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj" />
+      <recent name="C:\Users\CHOI\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj\class 3+" />
+      <recent name="C:\Users\CHOI\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj\class 3+" />
+      <recent name="D:\Onedrive\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj" />
+      <recent name="D:\Onedrive\OneDrive - Chonnam National University\SSAFY\code\알고리즘\\" />
+      <recent name="D:\Onedrive\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj\class 2++" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.색종이 만들기_2630">
+    <configuration name="비밀번호 찾기_17219" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\CHOI\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj\class 3+\비밀번호 찾기_17219.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="색종이 만들기_2630" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj/색종이 만들기_2630.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="듣보잡_1764" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\CHOI\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj\class 3+\듣보잡_1764.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="바이러스_2606" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DELL\OneDrive - Chonnam National University\SSAFY\code\알고리즘\boj\class 3+\바이러스_2606.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dfs1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skeleton" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skeleton/dfs1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.바이러스_2606" />
+      <item itemvalue="Python.듣보잡_1764" />
+      <item itemvalue="Python.비밀번호 찾기_17219" />
+      <item itemvalue="Python.dfs1" />
+      <item itemvalue="Python.색종이 만들기_2630" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.색종이 만들기_2630" />
+        <item itemvalue="Python.dfs1" />
+        <item itemvalue="Python.비밀번호 찾기_17219" />
+        <item itemvalue="Python.듣보잡_1764" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b97b021-afa2-43e2-ba39-e33e6c9cd678" name="Default Changelist" comment="" />
+      <created>1634819337143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634819337143</updated>
+      <workItem from="1639964934318" duration="12405000" />
+      <workItem from="1640069622575" duration="10336000" />
+      <workItem from="1640260588091" duration="8773000" />
+      <workItem from="1640369953861" duration="11473000" />
+      <workItem from="1640674049260" duration="6880000" />
+      <workItem from="1641098370441" duration="611000" />
+      <workItem from="1641101651912" duration="5780000" />
+      <workItem from="1641809484224" duration="8709000" />
+      <workItem from="1642249862585" duration="120000" />
+      <workItem from="1642336846667" duration="1460000" />
+      <workItem from="1642378035372" duration="790000" />
+      <workItem from="1642526569831" duration="2102000" />
+      <workItem from="1642612249015" duration="805000" />
+      <workItem from="1642684158733" duration="125000" />
+      <workItem from="1642780258313" duration="1004000" />
+      <workItem from="1642842939421" duration="2791000" />
+      <workItem from="1642943200664" duration="4853000" />
+      <workItem from="1643004855443" duration="4292000" />
+      <workItem from="1643110254297" duration="3501000" />
+      <workItem from="1643173944816" duration="315000" />
+      <workItem from="1643208534926" duration="6982000" />
+      <workItem from="1643299037646" duration="5382000" />
+      <workItem from="1643345386900" duration="12000" />
+      <workItem from="1643396123706" duration="78000" />
+      <workItem from="1643450311615" duration="3749000" />
+      <workItem from="1643465326865" duration="490000" />
+      <workItem from="1643465831736" duration="123000" />
+      <workItem from="1643465966240" duration="37000" />
+      <workItem from="1643466014569" duration="61000" />
+      <workItem from="1643466086194" duration="1817000" />
+      <workItem from="1643468444430" duration="1466000" />
+      <workItem from="1643470042033" duration="18401000" />
+      <workItem from="1643703022508" duration="873000" />
+      <workItem from="1643819421077" duration="3000" />
+      <workItem from="1644051365913" duration="295000" />
+      <workItem from="1644157642038" duration="2823000" />
+      <workItem from="1644249140091" duration="3870000" />
+      <workItem from="1644853075760" duration="4402000" />
+      <workItem from="1645367150281" duration="4957000" />
+    </task>
+    <task id="LOCAL-00028" summary="1224 update">
+      <created>1640318246585</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1640318246585</updated>
+    </task>
+    <task id="LOCAL-00029" summary="1225 update">
+      <created>1640444282959</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1640444282962</updated>
+    </task>
+    <task id="LOCAL-00030" summary="1227 update">
+      <created>1640534627647</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1640534627647</updated>
+    </task>
+    <task id="LOCAL-00031" summary="1227 update">
+      <created>1640593451547</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1640593451547</updated>
+    </task>
+    <task id="LOCAL-00032" summary="1228 update">
+      <created>1640673935750</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1640673935750</updated>
+    </task>
+    <task id="LOCAL-00033" summary="1229 update">
+      <created>1640735444658</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1640735444658</updated>
+    </task>
+    <task id="LOCAL-00034" summary="1231 update">
+      <created>1640954492994</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1640954492994</updated>
+    </task>
+    <task id="LOCAL-00035" summary="1231 update">
+      <created>1640962528383</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1640962528383</updated>
+    </task>
+    <task id="LOCAL-00036" summary="0101 update">
+      <created>1640964627321</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1640964627321</updated>
+    </task>
+    <task id="LOCAL-00037" summary="0101 update">
+      <created>1640970158400</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1640970158400</updated>
+    </task>
+    <task id="LOCAL-00038" summary="0101 update">
+      <created>1641024902925</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1641024902925</updated>
+    </task>
+    <task id="LOCAL-00039" summary="0102 update">
+      <created>1641112423837</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1641112423837</updated>
+    </task>
+    <task id="LOCAL-00040" summary="0102 update">
+      <created>1641117771098</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1641117771098</updated>
+    </task>
+    <task id="LOCAL-00041" summary="0105 update">
+      <created>1641354504196</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1641354504196</updated>
+    </task>
+    <task id="LOCAL-00042" summary="0106 update">
+      <created>1641478989686</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1641478989686</updated>
+    </task>
+    <task id="LOCAL-00043" summary="0107 update">
+      <created>1641489429146</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1641489429146</updated>
+    </task>
+    <task id="LOCAL-00044" summary="0107 update">
+      <created>1641554763340</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1641554763340</updated>
+    </task>
+    <task id="LOCAL-00045" summary="0108 update">
+      <created>1641570035419</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1641570035419</updated>
+    </task>
+    <task id="LOCAL-00046" summary="0109 update">
+      <created>1641622869583</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1641622869584</updated>
+    </task>
+    <task id="LOCAL-00047" summary="0109 update">
+      <created>1641629671501</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1641629671501</updated>
+    </task>
+    <task id="LOCAL-00048" summary="0109 update">
+      <created>1641661968024</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1641661968024</updated>
+    </task>
+    <task id="LOCAL-00049" summary="0109 update">
+      <created>1641669175224</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1641669175224</updated>
+    </task>
+    <task id="LOCAL-00050" summary="0110 update">
+      <created>1641809661206</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1641809661206</updated>
+    </task>
+    <task id="LOCAL-00051" summary="0110 update">
+      <created>1641810052184</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1641810052184</updated>
+    </task>
+    <task id="LOCAL-00052" summary="0111 update">
+      <created>1641859960938</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1641859960938</updated>
+    </task>
+    <task id="LOCAL-00053" summary="0112 update">
+      <created>1641998267867</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1641998267867</updated>
+    </task>
+    <task id="LOCAL-00054" summary="0113 update">
+      <created>1642004251155</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1642004251155</updated>
+    </task>
+    <task id="LOCAL-00055" summary="0113 update">
+      <created>1642033495285</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1642033495285</updated>
+    </task>
+    <task id="LOCAL-00056" summary="0114 update">
+      <created>1642119654721</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1642119654721</updated>
+    </task>
+    <task id="LOCAL-00057" summary="0115 update">
+      <created>1642186633618</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1642186633618</updated>
+    </task>
+    <task id="LOCAL-00058" summary="0116 update">
+      <created>1642249944187</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1642249944188</updated>
+    </task>
+    <task id="LOCAL-00059" summary="0116 update">
+      <created>1642341658409</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1642341658409</updated>
+    </task>
+    <task id="LOCAL-00060" summary="0120 update">
+      <created>1642612378680</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1642612378680</updated>
+    </task>
+    <task id="LOCAL-00061" summary="0120 update">
+      <created>1642684231301</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1642684231301</updated>
+    </task>
+    <task id="LOCAL-00062" summary="0122 update">
+      <created>1642780313831</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1642780313831</updated>
+    </task>
+    <task id="LOCAL-00063" summary="0122 update">
+      <created>1642845636309</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1642845636310</updated>
+    </task>
+    <task id="LOCAL-00064" summary="0123 update">
+      <created>1642944260705</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1642944260706</updated>
+    </task>
+    <task id="LOCAL-00065" summary="0124 update">
+      <created>1642960405488</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1642960405488</updated>
+    </task>
+    <task id="LOCAL-00066" summary="0124 update">
+      <created>1643035612652</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1643035612653</updated>
+    </task>
+    <task id="LOCAL-00067" summary="0125 update">
+      <created>1643037205057</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1643037205057</updated>
+    </task>
+    <task id="LOCAL-00068" summary="0125 update">
+      <created>1643113647261</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1643113647262</updated>
+    </task>
+    <task id="LOCAL-00069" summary="0126 update">
+      <created>1643133977248</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1643133977248</updated>
+    </task>
+    <task id="LOCAL-00070" summary="0127 update">
+      <created>1643214436633</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1643214436634</updated>
+    </task>
+    <task id="LOCAL-00071" summary="0128 update">
+      <created>1643304398780</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1643304398780</updated>
+    </task>
+    <task id="LOCAL-00072" summary="0130 update">
+      <created>1643471960650</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1643471960651</updated>
+    </task>
+    <task id="LOCAL-00073" summary="0130 update">
+      <created>1643471991254</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1643471991254</updated>
+    </task>
+    <task id="LOCAL-00074" summary="0130 update">
+      <created>1643483876536</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1643483876536</updated>
+    </task>
+    <task id="LOCAL-00075" summary="0131 update">
+      <created>1643630762509</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1643630762509</updated>
+    </task>
+    <task id="LOCAL-00076" summary="0221 update">
+      <created>1645371490774</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1645371490774</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/TIL" />
+      <path value="$PROJECT_DIR$/참고자료" />
+    </ignored-roots>
+    <MESSAGE value="0101 update" />
+    <MESSAGE value="0102 update" />
+    <MESSAGE value="0105 update" />
+    <MESSAGE value="0106 update" />
+    <MESSAGE value="0107 update" />
+    <MESSAGE value="0108 update" />
+    <MESSAGE value="0109 update" />
+    <MESSAGE value="0110 update" />
+    <MESSAGE value="0111 update" />
+    <MESSAGE value="0112 update" />
+    <MESSAGE value="0113 update" />
+    <MESSAGE value="0114 update" />
+    <MESSAGE value="0115 update" />
+    <MESSAGE value="0116 update" />
+    <MESSAGE value="0120 update" />
+    <MESSAGE value="0122 update" />
+    <MESSAGE value="0123 update" />
+    <MESSAGE value="0124 update" />
+    <MESSAGE value="0125 update" />
+    <MESSAGE value="0126 update" />
+    <MESSAGE value="0127 update" />
+    <MESSAGE value="0128 update" />
+    <MESSAGE value="0130 update" />
+    <MESSAGE value="0131 update" />
+    <MESSAGE value="0221 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="0221 update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj/class 2++/소수 구하기_1929.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj/class 2+/소트인사이드_1427.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj/class 3+/Four Squares_17626.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$_Four_Squares_17626.coverage" NAME="-Four Squares_17626 Coverage Results" MODIFIED="1643214389628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__17219.coverage" NAME="비밀번호 찾기_17219 Coverage Results" MODIFIED="1643031778110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__2606.coverage" NAME="-바이러스_2606 Coverage Results" MODIFIED="1645371450632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___1003.coverage" NAME="-피보나치 함수_1003 Coverage Results" MODIFIED="1643303246449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$_1764.coverage" NAME="듣보잡_1764 Coverage Results" MODIFIED="1642947263392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___1181.coverage" NAME="_단어 정렬_1181 Coverage Results" MODIFIED="1640141482726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___4949.coverage" NAME="_균형잡힌 세상_4949 Coverage Results" MODIFIED="1640189078561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___2_10816.coverage" NAME="_숫자 카드 2_10816 Coverage Results" MODIFIED="1640248281397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__1003__1_.coverage" NAME="피보나치 함수_1003 (1) Coverage Results" MODIFIED="1643303426774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1640108302125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$___2_11651.coverage" NAME="_좌표 정렬하기 2_11651 Coverage Results" MODIFIED="1640187328592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___18111__1_.coverage" NAME="-_마인크래프트_18111 (1) Coverage Results" MODIFIED="1641669194311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___2_2751.coverage" NAME="_수 정렬하기 2_2751 Coverage Results" MODIFIED="1640031223088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___1874__1_.coverage" NAME="-스택 수열_1874 (1) Coverage Results" MODIFIED="1640374521115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$_11653.coverage" NAME="소인수분해_11653 Coverage Results" MODIFIED="1640423696340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__10872.coverage" NAME="_팩토리얼_10872 Coverage Results" MODIFIED="1640107761850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$_1427.coverage" NAME="소트인사이드_1427 Coverage Results" MODIFIED="1640420392618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__10773.coverage" NAME="_제로_10773 Coverage Results" MODIFIED="1640189813959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$dfs1.coverage" NAME="dfs1 Coverage Results" MODIFIED="1645371167772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skeleton" />
+    <SUITE FILE_PATH="coverage/$_.coverage" NAME="_길찾기 Coverage Results" MODIFIED="1640107270637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swea/learn/stack1" />
+    <SUITE FILE_PATH="coverage/$_2475.coverage" NAME="검증수_2475 Coverage Results" MODIFIED="1640593502566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/class 2+" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1642378223732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$__2630.coverage" NAME="색종이 만들기_2630 Coverage Results" MODIFIED="1645375688075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$_2.coverage" NAME="_회문2 Coverage Results" MODIFIED="1640083646433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swea/learn/list2" />
+    <SUITE FILE_PATH="coverage/$___10814.coverage" NAME="_나이순 정렬_10814 Coverage Results" MODIFIED="1640084450460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__18111.coverage" NAME="_마인크래프트_18111 Coverage Results" MODIFIED="1641112386349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$2_2164.coverage" NAME="카드2_2164 Coverage Results" MODIFIED="1639965037464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__.coverage" NAME="_쇠막대기 자르기 Coverage Results" MODIFIED="1640078643644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swea/learn/list2" />
+    <SUITE FILE_PATH="coverage/$___1654.coverage" NAME="_랜선 자르기_1654 Coverage Results" MODIFIED="1640190359967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$_____1620.coverage" NAME="-나는야 포켓몬 마스터 이다솜_1620 Coverage Results" MODIFIED="1642944202757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___0_11866.coverage" NAME="_요세푸스 문제 0_11866 Coverage Results" MODIFIED="1640247580344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$_1__1463.coverage" NAME="-1로 만들기_1463 Coverage Results" MODIFIED="1643471438886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___3_10989__1_.coverage" NAME="_수 정렬하기 3_10989 (1) Coverage Results" MODIFIED="1640370216182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___4948.coverage" NAME="_베르트랑의 공준_4948 Coverage Results" MODIFIED="1640964781115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___1966.coverage" NAME="_프린터 큐_1966 Coverage Results" MODIFIED="1640264187567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___1436.coverage" NAME="_영화감독 숌_1436 Coverage Results" MODIFIED="1640192154644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___1874.coverage" NAME="_스택 수열_1874 Coverage Results" MODIFIED="1640194629907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___5_10870.coverage" NAME="_피보나치 수 5_10870 Coverage Results" MODIFIED="1640108006461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___2805.coverage" NAME="_나무 자르기_2805 Coverage Results" MODIFIED="1640442987923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__7568.coverage" NAME="_덩치_7568 Coverage Results" MODIFIED="1640161505529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___11650.coverage" NAME="_좌표 정렬하기_11650 Coverage Results" MODIFIED="1640109995916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___3053.coverage" NAME="_택시 기하학_3053 Coverage Results" MODIFIED="1640534514757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___3_10989.coverage" NAME="-수 정렬하기 3_10989 Coverage Results" MODIFIED="1640313964682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$_0__1676.coverage" NAME="팩토리얼 0의 개수_1676 Coverage Results" MODIFIED="1642945251806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__2_10816__1_.coverage" NAME="숫자 카드 2_10816 (1) Coverage Results" MODIFIED="1640265594664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/class 2+" />
+    <SUITE FILE_PATH="coverage/$__0_11866.coverage" NAME="요세푸스 문제 0_11866 Coverage Results" MODIFIED="1640144453644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___2805__1_.coverage" NAME="-나무 자르기_2805 (1) Coverage Results" MODIFIED="1640443983559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___2579.coverage" NAME="-계단 오르기_2579 Coverage Results" MODIFIED="1643483703842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$___1929.coverage" NAME="_소수 구하기_1929 Coverage Results" MODIFIED="1640368660992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+    <SUITE FILE_PATH="coverage/$__11723.coverage" NAME="-집합_11723 Coverage Results" MODIFIED="1642528618567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj" />
+  </component>
+</project>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b97b021-afa2-43e2-ba39-e33e6c9cd678" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zofPJdF91LOhYxPQK4cyKu4BKZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../10.25 월말평가" />
+  </component>
+  <component name="RunManager" selected="Python.permutation1">
+    <configuration name="2805" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/211024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/211024/2805.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4881" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\CHOI\Anaconda3\envs\ssafy\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/211024" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/211024/4881.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="combination1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/combination1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="permutation1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/permutation1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.2805" />
+      <item itemvalue="Python.4881" />
+      <item itemvalue="Python.combination1" />
+      <item itemvalue="Python.permutation1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.permutation1" />
+        <item itemvalue="Python.combination1" />
+        <item itemvalue="Python.4881" />
+        <item itemvalue="Python.2805" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b97b021-afa2-43e2-ba39-e33e6c9cd678" name="Default Changelist" comment="" />
+      <created>1634819337143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634819337143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1053" height="362" key="GridCell.Tab.0.bottom" timestamp="1638283235555">
+      <screen x="1920" y="-406" width="1080" height="1880" />
+    </state>
+    <state width="1053" height="362" key="GridCell.Tab.0.bottom/1920.-406.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.-406.1080.1880" timestamp="1638283235555" />
+    <state width="1053" height="362" key="GridCell.Tab.0.center" timestamp="1638283235555">
+      <screen x="1920" y="-406" width="1080" height="1880" />
+    </state>
+    <state width="1053" height="362" key="GridCell.Tab.0.center/1920.-406.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.-406.1080.1880" timestamp="1638283235555" />
+    <state width="1053" height="362" key="GridCell.Tab.0.left" timestamp="1638283235555">
+      <screen x="1920" y="-406" width="1080" height="1880" />
+    </state>
+    <state width="1053" height="362" key="GridCell.Tab.0.left/1920.-406.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.-406.1080.1880" timestamp="1638283235555" />
+    <state width="1053" height="362" key="GridCell.Tab.0.right" timestamp="1638283235555">
+      <screen x="1920" y="-406" width="1080" height="1880" />
+    </state>
+    <state width="1053" height="362" key="GridCell.Tab.0.right/1920.-406.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.-406.1080.1880" timestamp="1638283235555" />
+    <state x="2302" y="271" key="refactoring.ChangeSignatureDialog" timestamp="1638864770945">
+      <screen x="1920" y="-406" width="1080" height="1880" />
+    </state>
+    <state x="2302" y="271" key="refactoring.ChangeSignatureDialog/1920.-406.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.-406.1080.1880" timestamp="1638864770945" />
+    <state x="2122" y="109" width="672" height="678" key="search.everywhere.popup" timestamp="1638861297913">
+      <screen x="1920" y="-406" width="1080" height="1880" />
+    </state>
+    <state x="2122" y="109" width="672" height="678" key="search.everywhere.popup/1920.-406.1080.1880/-1920.0.1920.1040/0.0.1920.1040@1920.-406.1080.1880" timestamp="1638861297913" />
+  </component>
+</project>
