@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d953aa6-1f3c-4a6c-9d13-5eb837e536c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-0BC4D1B-2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-0BC4D1B-3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-0BC4D1B-4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-0BC4D1B-5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-0BC4D1B.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-UTHOB01-2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-UTHOB01-3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace-DESKTOP-UTHOB01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/알고리즘.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/-[문자열][greedy]잃어버린 괄호_1541.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/[분할정복][재귀]Z_1074.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2++/나무 자르기_2805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2++/랜선 자르기_1654.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2++/마인크래프트_18111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2++/베르트랑의 공준_4948.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2++/소수 구하기_1929.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2++/스택 수열_1874.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2++/프린터 큐_1966.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/ACM 호텔_10250.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/Hashing_15829.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/검증수_2475.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/괄호_9012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/균형잡힌 세상_4949.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/나이순 정렬_10814.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/단어 정렬_1181.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/덩치_7568.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/덱 Deque_10866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/부녀회장이 될테야_2775.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/분해합_2231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/블랙잭_2798.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/설탕배달_2839.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/소인수분해_11653.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/소트인사이드_1427.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/수 정렬하기 2_2751.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/수 정렬하기 3_10989.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/수 찾기_1920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/숫자 카드 2_10816.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/스택_10828.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/영화감독 숌_1436.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/요세푸스 문제 0_11866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/음계_2920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/이항계수1_11050.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/제로_10773.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/좌표 정렬하기 2_11651.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/좌표 정렬하기_11650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/직각삼각형_4153.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/직사각형에서 탈출_1085.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/체스판 다시 칠하기_1018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/최대공약수와 최소공배수_2609.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/카드2_2164.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/큐 Queue_10845.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/택시 기하학_3053.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/통계학_2108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/팩토리얼_10872.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/팰린드롬수_1259.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 2+/피보나치 수 5_10870.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/1,2,3 더하기_9095.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/1로 만들기_1463.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/ATM_11399.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/Four Squares_17626.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[dfs][bfs]DFS와 BFS_1260.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[dp]-2xn 타일링_11726.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[dp]2xn 타일링 2_11726.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[그래프 좌표][dfs][bfs]유기농 배추_1012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[그래프][dfs][bfs]연결 요소의 개수_11724.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[분할정복][재귀]종이의 개수_1780.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[정렬][greedy]회의실 배정_1931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[정렬][좌표 압축]좌표 압축_18870.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[힙][우선순위 큐]최대 힙_11279.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/[힙][우선순위 큐]최소 힙_1927.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/계단 오르기_2579.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/구간 합 구하기 4_11659.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/나는야 포켓몬 마스터 이다솜_1620.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/동전 0_11047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/듣보잡_1764.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/바이러스_2606.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/비밀번호 찾기_17219.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/색종이 만들기_2630.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/집합_11723.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/파도반 수열_9461.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/패션왕 신해빈_9375.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/팩토리얼 0의 개수_1676.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/class 3+/피보나치 함수_1003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/backtrack(powerset).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/bfs1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/bfs3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/combination1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/deque.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/dfs1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/fibo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/heapq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/permutation1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/serach/binarySearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/sort/bubbleSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/sort/countingSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/sort/mergeSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/sort/quickSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/sort/selectionSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/sort/sorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/tree1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeleton/tree2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/list1/전기버스.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/list2/_부분집합의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/list2/색칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/list2/쇠막대기 자르기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/list2/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/list2/특별한 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/list2/회문2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack1/괄호검사.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack1/그래프 경로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack1/길찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack1/비밀번호.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack2/Forth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack2/계산기_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack2/미로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack2/배열 최소합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/stack2/토너먼트 카드게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/learn/string/회문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/문제들/1961.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/문제들/2805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/문제들/4881.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/문제들/a.1865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/문제들/a.2382.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/문제들/a.2383.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/문제들/a.5658.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HBIQbKyYpA6IACCgvTtiUiV4L8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d953aa6-1f3c-4a6c-9d13-5eb837e536c1" name="Changes" comment="" />
+      <created>1667752043368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667752043368</updated>
+      <workItem from="1667752066753" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
