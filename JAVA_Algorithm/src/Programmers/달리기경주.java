@@ -11,13 +11,13 @@ public class PRO_달리기경주 { // https://school.programmers.co.kr/learn/cou
         // 문자열 배열 선언 확인 필요
         String[] players = {"mumu", "soe", "poe", "kai", "mine"};
         String[] callings = {"kai", "kai", "mine", "mine"};
-        String[] answer = Solution.solution(players, callings);
+        //String[] answer = Solution.solution(players, callings);
 
     }
 }
 
 class Solution { // 시간 초과 해결필요
-    public static String[] solution(String[] players, String[] callings) {
+    public static String[] solution2(String[] players, String[] callings) {
         String[] answer = new String[players.length];
 
         Map<Integer, String> rank = new HashMap<Integer, String>();

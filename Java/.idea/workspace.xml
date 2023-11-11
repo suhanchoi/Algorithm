@@ -2,19 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f0531d-d08b-4afa-bd1b-f1f91aeed339" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers/PRO_달리기경주.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/JavaFn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/skeleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/PRO_추억점수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_1000.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/java_fn.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/java_fn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Programmers/JavaFn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Programmers/PRO_달리기경주.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Programmers/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/PRO_달리기경주.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/PRO_달리기경주.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/JavaFn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/JavaFn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/LIST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/MATH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/QUEUE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeleton/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2HBJBWfIUPZadUbXu2OHcTYxAGm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,27 +64,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/HelloWorldPrint.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Programmers" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/HelloWorldPrint.java" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Onedrive\OneDrive - Chonnam National University\SSAFY\code\알고리즘\Java\src\Programmers" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="skeleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaFn">
+  <component name="RunManager" selected="Application.PRO_달리기경주 (1)">
     <configuration name="BOJ_1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_1000" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorldPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorldPrint" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,6 +102,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PRO_달리기경주 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.PRO_달리기경주" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PRO_달리기경주" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.PRO_달리기경주" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScannerIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ScannerIn" />
       <module name="Algorithm" />
@@ -102,12 +134,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Algorithm" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PRO_달리기경주 (1)" />
+        <item itemvalue="Application.PRO_달리기경주" />
         <item itemvalue="Application.JavaFn" />
         <item itemvalue="Application.BOJ_1000" />
         <item itemvalue="Application.ScannerIn" />
-        <item itemvalue="Application.HelloWorldPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +173,9 @@
       <workItem from="1684162011357" duration="1545000" />
       <workItem from="1685009432027" duration="643000" />
       <workItem from="1685034514615" duration="1443000" />
-      <workItem from="1685199434914" duration="11615000" />
+      <workItem from="1685199434914" duration="21515000" />
+      <workItem from="1685869104616" duration="665000" />
+      <workItem from="1685869884411" duration="792000" />
     </task>
     <servers />
   </component>

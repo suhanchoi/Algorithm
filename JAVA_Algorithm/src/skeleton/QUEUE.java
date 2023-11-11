@@ -2,9 +2,8 @@ package skeleton;
 
 import java.util.*;
 
-public class Queue {
+public class QUEUE {
 
-    public static void main(String[] args){
 
         Queue<Integer> q = new LinkedList<>();
 
@@ -48,7 +47,7 @@ public class Queue {
 
 
 
-    }
+
 
 }
 

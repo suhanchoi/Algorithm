@@ -2,9 +2,7 @@ package skeleton;
 
 import java.util.*;
 
-public class List {
-
-    public static void main(String[] args){
+public class LIST {
 
         // List<Integer> list = new ArrayList<Integer>(); 업케스팅 왜 안되는지?
         // List<Integer> linkedList = new LinkedList<Integer>();
@@ -41,13 +39,7 @@ public class List {
 
         // Set -> ArrayList
         Set<String> set = new HashSet<String>();
-        List<String> menuList = new ArrayList<>(set);
-
-
-
-
-
-    }
+        LIST<String> menuList = new ArrayList<>(set);
 
 
 }

@@ -1,8 +1,7 @@
 package skeleton;
 
-public class Math {
+public class MATH {
 
-    public static void main(String[] args){
 
         Math.max(10,2);
         Math.min(3,2);
@@ -21,8 +20,6 @@ public class Math {
         Math.pow(2, 2);		// 2^2 = 4
         Math.sqrt(4);		// 2
 
-
-    }
 
 
 }
