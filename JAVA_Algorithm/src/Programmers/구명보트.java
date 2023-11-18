@@ -38,7 +38,7 @@ class 구명보트1 {
         		answer++;
         	}
         	
-        	/*//구명보트 최대인원이 2명인지 모른 풀이
+        	/*//구명보트 최대인원이 2명인지 모른 풀이 
         	tmpSum += people[i];
         	
         	if(tmpSum > limit) {
