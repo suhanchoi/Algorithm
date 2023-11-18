@@ -2,22 +2,18 @@ package Programmers;
 
 import java.util.*;
 
-public class 소수찾기 { // https://school.programmers.co.kr/learn/courses/30/lessons/42839
+class 전력망을둘로나누기 { // https://school.programmers.co.kr/learn/courses/30/lessons/86971
     public static void main(String args[]){
 
-        String numbers = "17"; // 3  // "011" 2
+        int[][] wires = {{1,3},{2,3},{3,4},{4,5},{4,6},{4,7},{7,8},{7,9}};
 
     }
 }
 
-class Solution17 {
-    public int solution(String numbers) {
-        int answer = 0;
+class 전력망을둘로나누기1 {
+    public int solution(int n, int[][] wires) {
+        int answer = -1;
 
-        // 1 7 17
-        // 1 11 10 110
-
-        // 0제외한 조합?
 
         return answer;
     }
