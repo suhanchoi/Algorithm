@@ -35,6 +35,9 @@ class 타겟넘버1 {
     		}
     		return;
     	}
+    	
+    	// 이 부분이 핵심
+        // 더하고 빼는 경우 모두 호출
     	dfs(numbers, target, depth + 1, sum + numbers[depth]);
     	dfs(numbers, target, depth + 1, sum - numbers[depth]);
     }
