@@ -1,22 +1,91 @@
 package Programmers;
 
-public class ì†Œìˆ˜ì°¾ê¸° { // https://school.programmers.co.kr/learn/courses/30/lessons/42839
+import java.util.*;
+
+// bfs, dfs ¿ÏÅ½
+class Àü·Â¸ÁÀ»µÑ·Î³ª´©±â { // https://school.programmers.co.kr/learn/courses/30/lessons/86971
     public static void main(String args[]){
-
-        String numbers = "17"; // 3  // "011" 2
-
+    	
+    	// int n = ¼ÛÀüÅ¾ÀÇ °³¼ö
+    	int n = 9;
+        int[][] wires = {{1,3},{2,3},{3,4},{4,5},{4,6},{4,7},{7,8},{7,9}};
+        
+        System.out.println(Àü·Â¸ÁÀ»µÑ·Î³ª´©±â1.solution(n, wires));
     }
 }
 
-class Solution17 {
-    public int solution(String numbers) {
-        int answer = 0;
+class Àü·Â¸ÁÀ»µÑ·Î³ª´©±â1 {
+	
+	static int[][] ary;
+	
+    public static int solution(int n, int[][] wires) {
+        
+    	int answer = n;
+        
+        // bfs °æ·ÎÃ£±â Queue ÀÌ¿ë
+        // ¼±À» ²÷¾îº¸¸é¼­ ¼ÛÀüÅ¾ °³¼öÀÇ Â÷ÀÌÀÇ ÃÖ¼Ò¸¦ return
+        
+        // ¾ç¹æÇâ Æ®¸®
+        ary = new int[n + 1][n + 1]; // 0 À¸·Î ¸ğµÎ ÃÊ±âÈ­
 
-        // 1 7 17
-        // 1 11 10 110
-
-        // 0ì œì™¸í•œ ì¡°í•©?
-
+        for(int i = 0; i < wires.length; i++) {
+        	ary[wires[i][0]][wires[i][1]] = 1; 
+        	ary[wires[i][1]][wires[i][0]] = 1;
+        }
+        
+        /* // ÀÎÁ¢Çà·Ä Ãâ·Â
+        for(int i = 1; i< ary.length; i++) {
+        	for(int j = 0; j < ary[i].length; j++){
+        		System.out.print(ary[i][j] + " "); 
+        	}
+        	System.out.println();
+        }
+        */
+        
+        // ¿¬°áÀ» ²÷À¸¸ç ÃÖ¼Ò°ª ¹İÈ¯
+        for(int i = 0; i < wires.length; i++) {
+        	int a = wires[i][0];
+        	int b = wires[i][1];
+        	
+        	// ÀÎÁ¢Çà·Ä ¾ç¹æÇâ ¿¬°á ²÷±â
+        	ary[a][b] = 0;
+        	ary[b][a] = 0; 
+        	
+        	// bfsÀ¸·Î Â÷ÀÌ ÃÖ¼Ò°ª ¼³Á¤
+        	answer = Math.min(answer, bfs(n, a));
+        	
+        	// ²÷±ä ¿¬°á º¹±¸
+        	ary[a][b] = 1;
+        	ary[b][a] = 1; 
+        }
         return answer;
+    }
+    
+    public static int bfs(int n , int start) {
+    	
+    	int cnt = 0; 
+    	int[] visited = new int[n+1];
+    	
+    	Queue<Integer> q = new LinkedList<>();
+    	q.offer(start); // q.offer(start);
+    	//int cnt = 1;
+    	
+    	while(!q.isEmpty()) {
+    		int point = q.poll(); // °æ·ÎÁöÁ¤
+    		cnt++;
+    		
+    		for(int i = 1; i <= n; i++) { // ¹æ¹®¾ÈÇÑ °æ·Î ÁöÁ¤ 1 ~ n
+    			if(visited[i] == 1)
+    				continue;
+    			// i ´Â °æ·Î ÈÄº¸
+    			// point´Â Çö À§Ä¡
+    			if(ary[point][i] == 1) { // ¿¬°áµÈ °æ·ÎÀÎÁö ÆÄ¾Ç
+    				q.offer(i);
+    				visited[point] = 1;
+        			//cnt++;
+    			}
+    		}
+    	}
+    	return (int)Math.abs((2 * cnt) - n); //  cnt - (n - cnt)
     }
 }

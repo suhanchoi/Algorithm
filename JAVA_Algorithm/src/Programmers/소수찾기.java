@@ -2,19 +2,110 @@ package Programmers;
 
 import java.util.*;
 
-class ì „ë ¥ë§ì„ë‘˜ë¡œë‚˜ëˆ„ê¸° { // https://school.programmers.co.kr/learn/courses/30/lessons/86971
+// ¿ÏÀüÅ½»ö ºê·çÆ®Æ÷½º
+class ¼Ò¼öÃ£±â { // https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=java
     public static void main(String args[]){
 
-        int[][] wires = {{1,3},{2,3},{3,4},{4,5},{4,6},{4,7},{7,8},{7,9}};
-
+        String numbers = "17";
+        //int return = 3; // "7" "17" "71"
+        
+        System.out.println(¼Ò¼öÃ£±â1.solution(numbers));
     }
 }
 
-class ì „ë ¥ë§ì„ë‘˜ë¡œë‚˜ëˆ„ê¸°1 {
-    public int solution(int n, int[][] wires) {
-        int answer = -1;
-
+class ¼Ò¼öÃ£±â1 {
+	
+	static HashSet<Integer> set = new HashSet<>();
+	
+    public static int solution(String numbers) { // ¿¡¶óÅä½ºÅ×³×½ºÀÇ Ã¼
+    	//  https://www.youtube.com/watch?v=pF368QqdQb4&list=PLlV7zJmoG4XI9VguUVNMu3pCjssb4aR_0&index=3&ab_channel=%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%B7%A8%EC%A7%81%ED%95%98%EA%B8%B0 Âü°í
+        
+    	int answer = 0;
+        
+        // ¸ğµç ¼ıÀÚµéÀÇ Á¶ÇÕ¿¡¼­ ¼Ò¼öÀÇ °³¼ö¸¦ ¹İÈ¯
+    	// »ı¼º °¡´ÉÇÑ ¸ğµç ¼ıÀÚ Á¶ÇÕÀº Àç±ÍÇÔ¼ö·Î »ı¼º
+    	// setÀ¸·Î Áßº¹ Á¶ÇÕ Á¦°Å
+    	// ¼Ò¼ö ÆÇ´ÜÀº ¿¡¶óÅä½ºÅ×³×½ºÀÇ Ã¼ È°¿ë
+    	// -> ÇØ´ç ¼ıÀÚÀÇ Á¦°ö±Ù ±îÁöÀÇ °ª±îÁö¸¸ ÆÄ¾ÇÇÏ¸é ¼Ò¼öÀÎÁö ÆÇ´Ü °¡´É
+    	
+    	recursive("", numbers); // Àç±ÍÇÔ¼ö·Î Á¶ÇÕ°¡´ÉÇÑ ¼ıÀÚ »ı¼º
+    	
+        Iterator<Integer> it = set.iterator();
+        
+        while(it.hasNext()) {
+        	int num = it.next();
+        	if(isPrime(num))
+        		answer++;
+        			
+        }
 
         return answer;
     }
+    
+    // Àç±Í·Î ¼ıÀÚ Á¶ÇÕ »ı¼º 
+    public static void recursive(String comb, String others) {
+    	if(!"".equals(comb)) {
+    		set.add(Integer.parseInt(comb));
+    	}
+    	
+    	for(int i = 0; i < others.length(); i++) {
+    		// i ³Ö°í, ³ª¸ÓÁö Ãß°¡ ÈÄ Àç±ÍÈ£Ãâ
+    		recursive(comb + others.charAt(i) , others.substring(0, i) + others.substring(i+1));
+    	}
+    }
+    
+    // ¼Ò¼öÆÇº°
+    // ¿¡¶óÅä½ºÅ×³×½ºÀÇ Ã¼ È°¿ë
+    public static boolean isPrime(int num) { 
+    	
+    	if(num == 0 || num ==1) {
+    		return false;
+    	}
+    	
+    	int lim = (int)Math.sqrt(num); // limit ÁöÁ¤
+    	
+    	for(int i = 2; i <=lim; i++) { // i´Â 2ºÎÅÍ <= lim ÇÑ°è±îÁö
+    		if(num % i == 0) { // ³ª´µ°Ô µÇ¸é ¼Ò¼ö°¡ ¾Æ´Ô
+    			return false;
+    		}
+    	}
+    	return true;
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
