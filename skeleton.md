@@ -37,6 +37,7 @@ sb.toString();
 int[] ary = new int[10];
 Arrays.sort(ary); // 배열 정렬
 Arrays.sort(ary, Collections.reverseOrder()); // 배열 역정렬
+Arrays.toString(ary); // ary 출력
 
 list = Arrays.asList(array);
 ary = list.toArray(new String[list.size()]); // array -> List
@@ -65,6 +66,7 @@ Collections.sort(list, new Comaprator<ArrayList>(){
 // Math
 Math.max();
 Math.min();
+Math.abs(); // 절댓값
    
 
 // 형변환
@@ -146,6 +148,45 @@ pq.isEmpty();
 
 
 // 에라토스테네스의 체 -> 소수(Prime Number)
+
+
+
+
+
+```
+
+
+
+```sql
+-- ORACLE
+
+-- 조건문
+CASE WHEN THEN
+WHEN THEN
+ELSE
+END
+
+NVL(isNull, '0')
+
+
+TO_CHAR(date,  'YYYYMMDD') = '20240410'
+TO_DATE(date,  'YYYYMMDD')
+
+distinct
+
+group by
+having
+
+with
+
+count
+
+order by 1,2
+
+fetch first 3 rows only
+
+where 
+rownum < 10
 
 
 
