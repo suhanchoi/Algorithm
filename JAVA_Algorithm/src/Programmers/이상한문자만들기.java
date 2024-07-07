@@ -22,7 +22,7 @@ class Solution3 {
         // 각 단어의 홀수는 소문자로 바꾸고 반환
 
         StringBuilder sb = new StringBuilder();
-
+ 
         //String[] tempStr = s.split(" ");
         //String[] str = new String[tempStr.length];
         
